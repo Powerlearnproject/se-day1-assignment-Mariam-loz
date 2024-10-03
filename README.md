@@ -18,7 +18,7 @@ Waterfall Model (1970s): Established a linear, phase-based approach to managing 
 Agile Methodology (2001): Promoted iterative development and flexibility, enhancing collaboration and adaptability.
 
 List and briefly explain the phases of the Software Development Life Cycle.
- There are seven phases in SDLC . Which are *Requirements  *Design *Implementation *Testing *Deployment *Maintenance . ¶Agile is  an example of Software development methodologies which is a cycle of planning preferably used for long term projects.  ¶Waterfall is also an example of Software development methodologies which involves a sequence of steps which is preferably used for short termed projects.
+ There are seven phases in SDLC . Which are *Requirements *Design *Implementation *Testing *Deployment *Maintenance . ¶Agile is  an example of Software development methodologies which is a cycle of planning preferably used for long term projects.  ¶Waterfall is also an example of Software development methodologies which involves a sequence of steps which is preferably used for short termed projects.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
